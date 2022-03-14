@@ -1,9 +1,16 @@
+body
+{
+    background-color: rgb(33, 31, 44);
+}
+
+
 
 #container
 {
     border: 1px solid rgb(196, 196, 196);
     border-top: 0;
-    color: rgb(107, 23, 23);
+    color: rgb(60, 55, 55);
+    background-color: white;
     
     
    text-align: left;
@@ -12,6 +19,14 @@
     
 }
 
+
+
+#logo
+{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
 
 #cabecera
 {
